@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Shout</title>
+    <item>
+      <title>Shout 1.2.5</title>
+      <pubDate>Mon, 23 Nov 2026 17:14:48 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/moritz-cvn/shout-releases/releases/tag/v1.2.5</link>
+      <enclosure url="https://github.com/moritz-cvn/shout-releases/releases/download/v1.2.5/Shout-1.2.5.dmg" type="application/octet-stream" sparkle:edSignature="nMyWNQfwie5nBVK8JedP+C43fKwRphn1p/cwc7tOEg9C5+EnK80PxydIJ+Id57ucL/m/bB1c5CdJ0RQxXSogAQ==" length="4792350" />
+    </item>
+  </channel>
+</rss>
