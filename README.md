@@ -15,6 +15,6 @@ The app is signed by cavion GmbH and notarized by Apple.
 3. Allow **Microphone**, **Input Monitoring** (for the Fn key) and **Accessibility** (to insert text) when macOS asks.
 4. Click into a text field, hold **Fn** while you speak and let go when you are done.
 
-Shout does not update itself yet. Download the latest version here to update.
+Shout checks for updates and installs them itself (version 1.2.5 and later). If you have an older version, download the latest one here once.
 
 This repository only hosts the downloads. Shout is proprietary software. Copyright © 2026 cavion GmbH. All rights reserved.
