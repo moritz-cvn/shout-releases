@@ -3,13 +3,13 @@
   <channel>
     <title>Shout</title>
     <item>
-      <title>Shout 1.3.10</title>
-      <pubDate>Tue, 24 Nov 2026 14:17:02 +0000</pubDate>
-      <sparkle:version>30</sparkle:version>
-      <sparkle:shortVersionString>1.3.10</sparkle:shortVersionString>
+      <title>Shout 1.3.11</title>
+      <pubDate>Tue, 24 Nov 2026 14:56:19 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.3.11</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <link>https://github.com/moritz-cvn/shout-releases/releases/tag/v1.3.10</link>
-      <enclosure url="https://github.com/moritz-cvn/shout-releases/releases/download/v1.3.10/Shout-1.3.10.dmg" type="application/octet-stream" sparkle:edSignature="+e5y0mXgczb0u0JCLMKfQlKzycPMCTXJ/L3lG2jDEJV64JTRJY4wbiTdwux+3dcwcMoj6yCcG/+/91Jww0V1BQ==" length="4483262" />
+      <link>https://github.com/moritz-cvn/shout-releases/releases/tag/v1.3.11</link>
+      <enclosure url="https://github.com/moritz-cvn/shout-releases/releases/download/v1.3.11/Shout-1.3.11.dmg" type="application/octet-stream" sparkle:edSignature="DQYDxOgadwrwOmon2T3tgBk0AQ/h9fSmo+CncWPUlFpLdqdeAexv7KrCXg6gu3vIm+dO8lvu6qNvjNUsSHvjBg==" length="4483979" />
     </item>
   </channel>
 </rss>
